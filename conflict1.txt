@@ -3,3 +3,6 @@ Adding record2 to conflict.txt
 Added record3
 Added record4
 Added record5
+Added record9
+
+Added record10
