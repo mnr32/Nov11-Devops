@@ -1,3 +1,5 @@
 New file:record1
 Adding record2 to conflict.txt
 Added record3
+Added record4
+Added record5
